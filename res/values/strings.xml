@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_TouchTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_txtcurrentxlabel">Current x:</string>
+    <string name="text_txtcurrentylabel">Current y:</string>
+    <string name="text_waitingtext">Waiting...</string>
+    <string name="action_drawingactivity_text">Drawing</string>
+    <string name="title_activity_drawing">Drawing Activity</string>
+
+</resources>
